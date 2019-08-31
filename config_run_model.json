@@ -1,0 +1,8 @@
+{
+    "origin_path": "data/adult.data",
+    "dataset_path": "data/census.csv",
+    "column_names": ["age","workclass","fnlwgt","education","education-num","marital-status","occupation","relationship","race","sex","capital-gain","capital-loss","hours-per-week","native-country", "income"],
+    "random_state": 300,
+    "test_size": 0.2,
+    "model_path": "models/benchmark_model.pkl"
+}
